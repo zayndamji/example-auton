@@ -12,6 +12,10 @@ Instead of using distance movements (like drive for 5 inches) you would use volt
 
 Here is how you do this in common IDEs:
 
+VEXcode V5  
+
+<img width="296" alt="Screen Shot 2023-11-19 at 12 40 54 PM" src="https://github.com/zayndamji/example-auton/assets/86502397/9fbb8b3b-c3ab-41bf-bda9-5a4f962729ad">
+  
 VEXcode Pro V5
 ```c++
 motor LeftMotor1 = motor(PORT6, ratio6_1, true);
